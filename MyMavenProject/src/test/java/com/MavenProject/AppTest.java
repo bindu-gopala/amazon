@@ -28,7 +28,7 @@ public class AppTest
     @Test
     public void TestWelcomeMsg()
     {
-    	App.welcomeMsg("Madhu");
+    	App.welcomeMsg("Madhu Bindu");
         //        return new Test( AppTest.class );
     	//App myApp= new App();
 
